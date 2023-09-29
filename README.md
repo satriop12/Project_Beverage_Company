@@ -5,3 +5,5 @@ This project aims to:
 2. Analyzing company performance to focus on marketing strategies and product development
 3. Determining key vendors for purchasing and sales logistics
 4. Identifying non-performing products.
+
+To see the presentation and the visualization, please download the file. 
