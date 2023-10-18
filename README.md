@@ -1,4 +1,4 @@
-Create Data-Driven Decision-Making for a Beverage Company. Preparing, Processing Datasets using SQL in Google BigQuery. Followed by data visualization with Power BI and Share the Analysis with PowerPoint.
+Create Data-Driven Decision-Making for a Beverage Company. Preparing, Processing Datasets using SQL in Google BigQuery. Followed by data visualization with Power BI and Tableau. Share the Analysis with PowerPoint.
 
 This project aims to:
 1. Verifying inventory items completeness
