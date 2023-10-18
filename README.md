@@ -6,4 +6,5 @@ This project aims to:
 3. Determining key vendors for purchasing and sales logistics
 4. Identifying non-performing products.
 
-To see the presentation and the visualization, please download the file. 
+To see the presentation please download the file. 
+Dashboard can be seen at https://public.tableau.com/app/profile/muhammad.satrio1881/viz/BeverageCompanyAnnualPerformance/Dashboard1 
